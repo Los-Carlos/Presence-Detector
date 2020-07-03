@@ -28,6 +28,7 @@
 ## Budget
 
 ![budget](.\budget.png)
+![alt text](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/budget.png)
 
 Total Price: 37,43 + 13,99 = **51,42 €**
 
