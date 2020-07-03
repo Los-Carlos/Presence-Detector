@@ -125,3 +125,18 @@ Videos:
 
 - Video Test 1: https://github.com/Gupu25/PeopleCounter
 - Video Test 2: https://www.shutterstock.com/video/clip-5852792-top-down-view-london-city-workers-on
+
+
+# IR Arduino
+
+## Index
+- Components
+- Budget
+- Code 
+- Circuit
+
+## Components
+- Arduino UNO 
+## Budget
+## Code
+## Circuit
