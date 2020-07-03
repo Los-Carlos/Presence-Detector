@@ -1,5 +1,5 @@
 # Presence-Detector
-We make a presence detector. We choose two options, with PIR and Computer Vision
+We make a presence detector. We choose two options, with [PIR](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#ir-arduino) and [Computer Vision](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#computer-vision)
 
 # Computer Vision
 
@@ -7,14 +7,14 @@ We make a presence detector. We choose two options, with PIR and Computer Vision
 
 
 
-- Components and Software
-- Budget
-- Installation OpenCV
-- Code
-- Test 1 - video test 1
-- Test 2 - video test 2
-- Test 3 - Real Time
-- Bibliography
+- [Components and Software](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#components-and-software)
+- [Budget](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#budget)
+- [Installation OpenCV](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#installation-opencv)
+- [Code](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#code)
+- [Test 1 - video test 1](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#test-1---video-test-1)
+- [Test 2 - video test 2](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#test-2---video-test-2)
+- [Test 3 - Real Time](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#test-3---real-time)
+- [Bibliography](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#bibliography)
 
 
 
