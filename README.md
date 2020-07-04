@@ -151,4 +151,4 @@ Proteus: [Proteus](https://github.com/Los-Carlos/Presence-Detector/blob/master/I
 
 ## Circuit
 
-![alt text](https://github.com/Los-Carlos/Presence-Detector/blob/master/IR_Counter_People/Counter.pdf)
+[Circuit.pdf](https://github.com/Los-Carlos/Presence-Detector/blob/master/IR_Counter_People/Counter.pdf)
