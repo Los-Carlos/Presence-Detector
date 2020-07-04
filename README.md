@@ -59,7 +59,7 @@ sudo pip3 install opencv-contrib-python==3.4.6.27 //This is the last version tha
 
 We programing the Person.py class and use it in the code Counting.py
 
-**Files: **
+**Files:**
 
  [Counting.py](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/Counting.py)  [Person.py](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/Person.py) 
 
