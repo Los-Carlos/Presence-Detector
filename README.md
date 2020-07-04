@@ -28,7 +28,6 @@ We make a presence detector. We choose two options, with [PIR](https://github.co
 
 ## Budget
 
-![budget](.\budget.png)
 ![alt text](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/budget.png)
 
 Total Price: 37,43 + 13,99 = **51,42 €**
@@ -62,7 +61,7 @@ We programing the Person.py class and use it in the code Counting.py
 
 **Files: **
 
- [Counting.py](Counting.py)  [Person.py](Person.py) 
+ [Counting.py](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/Counting.py)  [Person.py](https://github.com/Los-Carlos/Presence-Detector/blob/master/CV_Counter_People/Person.py) 
 
 Problem with function, return 2 parameters and i need 3: 
 
@@ -72,9 +71,9 @@ cv.findContours(mask2,cv.RETR_EXTERNAL,cv.CHAIN_APPROX_SIMPLE)
 
 **Solution**
 
-`````javascript
+````javascript
 cv.findContours(mask2,cv.RETR_EXTERNAL,cv.CHAIN_APPROX_SIMPLE)[-2:] # I indicate to use the 3 parameter version
-`````
+````
 
 
 
@@ -130,13 +129,26 @@ Videos:
 # IR Arduino
 
 ## Index
-- Components
-- Budget
-- Code 
-- Circuit
+- [Components](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#index-1)
+- [Budget](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#budget-1)
+- [Code](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#code-1)
+- [Circuit](https://github.com/Los-Carlos/Presence-Detector/blob/master/README.md#circuit)
 
 ## Components
-- Arduino UNO 
+
+- Arduino ONE 
+- Infrared Sensor x2
+
+
 ## Budget
+
+Total price = 6,68 + 1,51 = **8,19€**
+
 ## Code
+
+Code: [Arduino Code](https://github.com/Los-Carlos/Presence-Detector/blob/master/IR_Counter_People/IR_Counter/IR_Counter.ino)
+Proteus: [Proteus](https://github.com/Los-Carlos/Presence-Detector/blob/master/IR_Counter_People/IR_Counter_People.pdsprj)
+
 ## Circuit
+
+![alt text](https://github.com/Los-Carlos/Presence-Detector/blob/master/IR_Counter_People/Counter.pdf)
